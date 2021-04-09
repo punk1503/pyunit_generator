@@ -1,3 +1,0 @@
-123, 'Hello World';'test1'
-'Abrikoa', 'Hello World';'test2'
-16.6, 'Hi';'testHi'
